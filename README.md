@@ -6,10 +6,14 @@ This project leverages YOLOv9 to predict the growth stage of tomato plants, clas
 This project leverages YOLOv9 to detect the growth stage of tomato plants, classifying them into the following five distinct stages:
 
 1-Seed Germnation Stage
+
 2-Seedling Stage 
+
 3-Vegetative Stage 
+
 4-Flowering Stage 
-5-Fruiting_Ripening Stage –
+
+5-Fruiting_Ripening Stage 
 
 
 🎯 Objective
