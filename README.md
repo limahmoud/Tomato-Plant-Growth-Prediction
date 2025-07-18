@@ -3,6 +3,17 @@
 
 📌 Overview
 This project leverages YOLOv9 to predict the growth stage of tomato plants, classifying them into five distinct stages. The predictions are then integrated into an IoT-based smart greenhouse system that autonomously adjusts environmental conditions based on the identified stage.
+This project leverages YOLOv9 to detect the growth stage of tomato plants, classifying them into the following five distinct stages:
+
+Seedling Stage – بداية النمو وظهور البادرات.
+
+Vegetative Stage – نمو الأوراق والساق بشكل مكثف.
+
+Flowering Stage – بداية تفتح الزهور على النبات.
+
+Fruiting Stage – تكوُّن الثمار وظهورها على النبات.
+
+Ripening Stage – نضج الثمار وتحوُّل لونها إلى الأحمر.
 
 🎯 Objective
 To build an intelligent agriculture system that:
