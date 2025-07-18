@@ -1,0 +1,14 @@
+If you want the code, send me an email at alimahmoudd2211@gmail.com
+
+
+from ultralytics import YOLO
+
+model = YOLO('yolov9c.pt')
+
+model.train(
+    data="/kaggle/working/growth_tomato-43/data.yaml",
+    epochs=90,
+    imgsz=640,
+    batch=16,
+    device=0,
+)
